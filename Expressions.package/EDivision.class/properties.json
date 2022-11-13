@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EExpression",
+	"category" : "Expressions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numerator",
+		"denominator"
+	],
+	"name" : "EDivision",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+arithmetic
+negated
+	^ expression

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EBinaryExpression",
+	"category" : "Expressions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EAddition",
+	"type" : "normal"
+}
